@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX50759103.jpg");
+    background-color: black;
+    background-size: contain;
+    text-align: center;
+    vertical-align: middle;
+}
+.heading{
+    position: relative;
+    left: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    font-style: italic;
+}
+.sub-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(193, 20, 98);
+    font-size: medium;
+}
